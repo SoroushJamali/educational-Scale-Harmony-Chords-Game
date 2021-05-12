@@ -161,6 +161,27 @@ d. First you hear the randomly generated chords.
 1.	Melody Generation with Markov Chains
 Markov chains, named after Andrey Markov, are mathematical systems that hop from one "state" (a situation or set of values) to another. For example, if you made a Markov chain model of a baby's behavior, you might include "playing," "eating", "sleeping," and "crying" as states, which together with other behaviors could form a 'state space'. In Music Theory arcade, Markov Chains are widely used to generate automatic random melody progressions especially present in the #2 Game – Piano Repeater. Each note has a transition state which could be possible in given scale. For example, in C – Major, the possible states are:  "C"  {"CC", "CD", "CE", "CF", "CG", "CA", "CB"}. As known from the Music Theory the possible notes in the C – Major are C, D, E, F, G, A, B. In the melodyGeneration.pde first the Chromatic Scale is defined:
 
+- ![Screenshot](screenshots/Capture1.PNG)
+
+As also mentioned during the lectures the Major scale is defined by the intervals between these notes starting from the root note by: W W H W W W H. W indicates the whole step while H indicates the Half-Step. On the other hand, minor scale is defined as: W H W W H W W. The program simply defines scales according to those formulas given above.
+
+- ![Screenshot](screenshots/Capture2.PNG)
+
+If we convert the formula for major scale, say W is equal to 2 and H is equal to 1. So one can define them easily in any programming language. Here in the0  corresponds to the note C so 0 + 2  D, 0 + 2 + 2  E, 0 + 2 + 2 + 1  F. The melody generation is then moves into the next stage where notes are moved next to each other with respect to their probability distribution from online available databases mainly regarding to EDM.
+
+- ![Screenshot](screenshots/image001.png)
+
+- ![Screenshot](screenshots/image003.png)
+
+- ![Screenshot](screenshots/Untitled.png)
+
+
+
+
+
+
+
+
 
 
 
