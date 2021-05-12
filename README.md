@@ -92,21 +92,21 @@ a.
 
 2.	SECOND GAME (GALAXY SHOOTING)
 
-a.	First you choose difficulty, 
+      a.	First you choose difficulty, 
 
-b.	Then select the scale (there are 4 different scales for each of the 12 notes, so 48 in total) 
+      b.	Then select the scale (there are 4 different scales for each of the 12 notes, so 48 in total) 
 
-c.	In the third step you press play. 
+      c.	In the third step you press play. 
 
-•	when you press play the buttons vanish and a new button "change" appears which lets you change again the parameters in case you want to play with different difficulty or scale, the procedure is again the same.
+      •	when you press play the buttons vanish and a new button "change" appears which lets you change again the parameters in         case you want to play with different difficulty or scale, the procedure is again the same.
 
-d.	You must shoot the boxes with wrong chords in order to eliminate the chord/chords which doesn’t or don’t belong to the scales that you selected in the first place 
+      d.	You must shoot the boxes with wrong chords in order to eliminate the chord/chords which doesn’t or don’t belong to the         scales that you selected in the first place 
 
-•	It worth to mention that there is scoring at the end.
+      •	It worth to mention that there is scoring at the end.
 
-•	The selected difficulty changes the number of appearing notes. The harder the level the more boxes appear
+      •	The selected difficulty changes the number of appearing notes. The harder the level the more boxes appear
 
-•	Making the game harder changes the number of wrong chords number.
+      •	Making the game harder changes the number of wrong chords number.
 
 3.	THIRD GAME (CHORD ARRANGE)
 
