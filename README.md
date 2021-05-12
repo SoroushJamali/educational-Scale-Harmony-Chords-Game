@@ -156,6 +156,11 @@ d. First you hear the randomly generated chords.
 - Sync of sounds and animations, sometimes they would crash.
 
 
+## HMM 
+![Screenshot](screenshots/Markov chains.docx)
+
+
+
 ## INSTALL
 
 To install the game, you must download the “.rar” file first. then in the file “imagetest.pde” you must change three addresses in your PC: 
