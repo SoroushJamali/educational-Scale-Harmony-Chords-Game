@@ -145,6 +145,17 @@ d. First you hear the randomly generated chords.
 - ![Screenshot](screenshots/drag.png)
 
 
+## CHALLENGES 
+
+- During the implementation, we had many challenges, but for sure, one of the major ones is "Thread Separation for Sounds and the Game". It was a bit tricky to make new threads in order to make sounds play without disrupting the game. Since there should be a wait time before each note, we could not come up with a solution that does not freeze the game for some time. Then we have decided to make use of Java Threads and implemented a second class that extends Thread. So in that sound thread, we could easily use the delay() function without freezing the actual game. However, since we lack knowledge about avoiding this issue, it was a complex and stressful stage.
+
+- Erasing the blocks after shooting since they were not actual objects that could simply be removed.
+
+- Coping with latency, definitelly.
+
+- Sync of sounds and animations, sometimes they would crash.
+
+
 ## INSTALL
 
 To install the game, you must download the “.rar” file first. then in the file “imagetest.pde” you must change three addresses in your PC: 
