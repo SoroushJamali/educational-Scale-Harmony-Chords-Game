@@ -1,7 +1,7 @@
 # CPAC Project
-CPAC final project 
+## CPAC final project 
 
-## Game APP for Educational purpose challenging your knowledge about Scale harmony chords and scales 
+# Game APP for Educational purpose challenging your knowledge about Scale harmony chords and scales 
 
 ![Screenshot](screenshots/main-menu.png)
 
