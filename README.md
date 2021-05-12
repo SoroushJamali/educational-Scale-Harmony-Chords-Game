@@ -29,7 +29,7 @@ that extends over one octave and is displaying the notes composing the major sca
 3.	The **Galaxy Shooting** 
 The goal behind this game is to test the player's knowledge on scales. It randomly generates a group of notes, some of which are not a part of the selected scale. The player must use his spaceship to shoot the wrong one/s.
 
-![Screenshot](screenshots/shooting.png)
+![Screenshot](screenshots/shooting.jpg)
 
 
 4.	The **Melody Memory ** 
