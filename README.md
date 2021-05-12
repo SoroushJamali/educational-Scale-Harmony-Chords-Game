@@ -126,6 +126,12 @@ a.	You have to fir select “Church mode”
 * Aeolian – minor + lowered 6th, lowered 7th
 
 
+b. Then you must select the difficulty level. These level changes the time of gam e and also create more random chords.
+
+c. And you select “PLAY”
+
+d. First you hear the randomly generated chords. 
+   Then the countdown begins. You have to order the chords in the progression you have been asked. 
 
 
 
