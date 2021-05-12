@@ -90,9 +90,11 @@ e.	Didactic
 
 ## Video Demo
 Here is a short demo of our project: https://youtu.be/hOSSSHiEU8Q
-Developed by
-	ANTONIOS PAPPAS	antonio1.papa@mail.polimi.it
-	METEHAN PALA		metehan.pala@mail.polimi.it
-	SOROUSH JAMALI	soroush.jamali@polimi.mail.it
+
+Developed by :
+
+-	ANTONIOS PAPPAS	antonio1.papa@mail.polimi.it
+-	METEHAN PALA		metehan.pala@mail.polimi.it
+-	SOROUSH JAMALI	soroush.jamali@polimi.mail.it
 
 
