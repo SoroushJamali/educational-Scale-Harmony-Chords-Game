@@ -133,6 +133,7 @@ c. And you select “PLAY”
 d. First you hear the randomly generated chords. 
    Then the countdown begins. You have to order the chords in the progression you have been asked. 
 
+- ![Screenshot](screenshots/drag.png)
 
 
 
