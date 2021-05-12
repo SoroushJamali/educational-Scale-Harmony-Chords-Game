@@ -34,8 +34,12 @@ The aim of this game is to tease your memory by playing a sequence of notes resp
 
 5.	The **Chord Drag **
 The aim of this game is to challenge your knowledge about scales and famous chord progression. You must order the given chords in the right manner by dragging and dropping them in the boxes. The game is available in 3 difficulties. After you succussed in the game the results will be shown automatically, and the game will move forward.
-![Screenshot](screenshots/drag.png)
 ![Screenshot](screenshots/drag_option.png)
+
+- As you can seether are many options before you start playing 
+
+![Screenshot](screenshots/drag.png)
+
 
 
 ## Why It’s Good
