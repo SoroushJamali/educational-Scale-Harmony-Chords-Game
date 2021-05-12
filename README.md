@@ -142,13 +142,17 @@ d. First you hear the randomly generated chords.
 To install the game, you must download the “.rar” file first. then in the file “imagetest.pde” you must change three addresses in your PC: 
 
 String sketchpath =
+
                   "C:/Users/User/Desktop/MusicTheoryArcade/2PianoGame/soroushPiano";
    
 String sketchpath =
+
                    "C:/Users/User/Desktop/MusicTheoryArcade/1ShooterGame/sound_sketch_v1/Latest Version/shootTheNote";
                    
 String sketchpath = 
+
                    "C:/Users/User/Desktop/MusicTheoryArcade/3DragGame/drag7/drag4";
+                   
                    
 Simply change “drag4”,” shootTheNote”,” soroushPiano”. Folders in the above codes.
 
