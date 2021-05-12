@@ -157,7 +157,11 @@ d. First you hear the randomly generated chords.
 
 
 ## HMM 
-![Screenshot](screenshots/Markov chains.pdf)
+
+1.	Melody Generation with Markov Chains
+Markov chains, named after Andrey Markov, are mathematical systems that hop from one "state" (a situation or set of values) to another. For example, if you made a Markov chain model of a baby's behavior, you might include "playing," "eating", "sleeping," and "crying" as states, which together with other behaviors could form a 'state space'. In Music Theory arcade, Markov Chains are widely used to generate automatic random melody progressions especially present in the #2 Game – Piano Repeater. Each note has a transition state which could be possible in given scale. For example, in C – Major, the possible states are:  "C"  {"CC", "CD", "CE", "CF", "CG", "CA", "CB"}. As known from the Music Theory the possible notes in the C – Major are C, D, E, F, G, A, B. In the melodyGeneration.pde first the Chromatic Scale is defined:
+
+
 
 
 
