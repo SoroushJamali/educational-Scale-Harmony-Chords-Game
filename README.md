@@ -98,15 +98,15 @@ a.
 
       c.	In the third step you press play. 
 
-      -  when you press play the buttons vanish and a new button "change" appears which lets you change again the parameters in         case you want to play with different difficulty or scale, the procedure is again the same.
+      - when you press play the buttons vanish and a new button "change" appears which lets you change again the parameters in         case you want to play with different difficulty or scale, the procedure is again the same.
 
       d.	You must shoot the boxes with wrong chords in order to eliminate the chord/chords which doesn’t or don’t belong to the         scales that you selected in the first place 
 
-      - 	It worth to mention that there is scoring at the end.
+      - It worth to mention that there is scoring at the end.
 
-      -  The selected difficulty changes the number of appearing notes. The harder the level the more boxes appear
+      - The selected difficulty changes the number of appearing notes. The harder the level the more boxes appear
 
-      - 	Making the game harder changes the number of wrong chords number.
+      -	Making the game harder changes the number of wrong chords number.
 
 3.	THIRD GAME (CHORD ARRANGE)
 
