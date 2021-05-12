@@ -51,18 +51,22 @@ The aim of this game is to challenge your knowledge about scales and famous chor
 The ChordSchool app workflow can be summarized by the following steps:
 
 1.	INSPIRING
-a.	Random sequence of notes in a given scale can inspire musicians to help their melody composing process.
+
+  .	Random sequence of notes in a given scale can inspire musicians to help their melody composing process.
 
 2.	SIMPLE UX
-a.	It’s so simple to use, anyone with  minimum knowledge of computers would be able to use it.
+
+  .	It’s so simple to use, anyone with  minimum knowledge of computers would be able to use it.
 
 3.	DIDACTIC
-a.	In a innovative and entertaining way it helps you to learn some basic music theory.
+
+  .	In a innovative and entertaining way it helps you to learn some basic music theory.
 
 
 
 6.	 GOALS 
-The main goal of the project is to support users in their path of learning music theory by allowing them to exercise with entertainment. Since there aren’t any similar Works like this, it also offers a different creative experience.
+
+  The main goal of the project is to support users in their path of learning music theory by allowing them to exercise with entertainment. Since there aren’t any similar Works like this, it also offers a different creative experience.
 Since the UX and doing the exercises are pretty simple a wide range of users are able to use it.
 
 ![Screenshot](screenshots/modalChords.png)
@@ -75,7 +79,8 @@ d.	Different type of scales
 e.	Didactic
 
 8.	IMPLEMENTATION
-a.	Project is mainly implemented in processing, with some extra features which will be implemented via Python such as motion-tracking. For sound generation minim library available for Processing is used. 
+
+  . Project is mainly implemented in processing, with some extra features which will be implemented via Python such as motion-tracking. For sound generation minim library available for Processing is used. 
 
 
 
