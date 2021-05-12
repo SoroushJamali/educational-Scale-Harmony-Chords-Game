@@ -69,7 +69,7 @@ The ChordSchool app workflow can be summarized by the following steps:
        The main goal of the project is to support users in their path of learning music theory by allowing them to exercise with entertainment. Since there aren’t any similar Works like this, it also offers a different creative experience.
 Since the UX and doing the exercises are pretty simple a wide range of users are able to use it.
 
-![Screenshot](screenshots/Impl.png)
+![Screenshot](screenshots/Impl.PNG)
 
 7.	MAIN FEATURES:
 a.	Random note generation (According to given scale)
