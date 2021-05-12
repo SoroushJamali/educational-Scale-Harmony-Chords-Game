@@ -109,8 +109,23 @@ a.
       -	Making the game harder changes the number of wrong chords number.
 
 3.	THIRD GAME (CHORD ARRANGE)
+* 
+- ![Screenshot](screenshots/drag_option.png)
 
-a.	
+a.	You have to fir select “Church mode”
+-	also called ecclesiastical mode, in music, any one of eight scalar arrangements of whole and halftones, derived by medieval theorists, most likely from early Christian vocal convention. Thematically, the mature modal system may be represented as follows:
+-	Dorian • Lydian • Mixolydian • Aeolian • Phrygian • Locrian A Dorian scale is the scale that begins on the second step of the major scale and keeps the major scale key signature. For example, D - Dorian is related to C major and has no sharps and flats, but it starts on D. A Mixolydian scale is the scale that begins on the fifth step of the major scale and keeps the major scale key signature. 
+
+- To summarize:
+
+* Ionian – Major (no altered notes)
+* Dorian – minor +raised 6th, lowered 7th
+* Phrygian – minor + lowered 2nd, lowered 6th, lowered 7th
+* Lydian – Major + raised 4th
+* Mixolydian – Major +lowered 7th
+* Aeolian – minor + lowered 6th, lowered 7th
+
+
 
 
 
