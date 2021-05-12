@@ -157,7 +157,7 @@ d. First you hear the randomly generated chords.
 
 
 ## HMM 
-![Screenshot](screenshots/Markov chains.docx)
+![Screenshot](screenshots/Markov chains.pdf)
 
 
 
