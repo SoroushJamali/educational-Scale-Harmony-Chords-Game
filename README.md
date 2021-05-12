@@ -3,7 +3,7 @@ CPAC final project
 
 ## Game APP for Educational purpose challenging your knowledge about Scale harmony chords and scales 
 
-![Screenshot](screenshots/mainWindow.png)
+![Screenshot](screenshots/main-menu.png)
 
 ## Introduction
 
@@ -20,7 +20,7 @@ The Music Memory user interfaces consists of the following main components:
 1.	The **Menu**
  where the user mainly chooses among three game. The user can choose the game of her/his choice.
 
-
+![Screenshot](screenshots/keyboard.png)
 
 2.	 The **Keyboard** 
 that extends over one octave and is displaying the notes composing the major scale of reference as well as the placement of fingers over it for the modal notes in their first position as well as all the possible alterations when applied by the user. Please note that the keyboard is only appear in one of the games
