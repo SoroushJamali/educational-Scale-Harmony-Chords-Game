@@ -12,7 +12,7 @@ ChordSchool is a Processing desktop application allowing the user to challenge h
 
 Our application is focused on the educational aspect of Scale harmony, therefore we are visually representing the user choices in key references, relative chords and modes as colors as well as notes over the keyboard, so to help him visualize the relevant music theory aside from hearing the result.
 
-A working version of Music Memory can be found here: https://github.com/enzojam/CPAC/
+A working version of Music Memory can be found here: https://polimi365-my.sharepoint.com/:f:/g/personal/10703215_polimi_it/Em3uXTNlhKpEhK2_3zg48VkBH3_u_HD0NM3vFUvd9Tz8cw?e=bNcwB8
 
 ## User Interface
 
